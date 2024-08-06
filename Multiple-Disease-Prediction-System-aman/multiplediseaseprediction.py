@@ -9,7 +9,7 @@ diabetes_model = pickle.load(open('Multiple-Disease-Prediction-System-aman/diabe
 
 heart_disease_model = pickle.load(open('Multiple-Disease-Prediction-System-aman/heart_disease_model.sav','rb'))
 
-parkinsons_model = pickle.load(open('', 'rb'))
+parkinsons_model = pickle.load(open('Multiple-Disease-Prediction-System-aman/parkinsons_model.sav', 'rb'))
 
 
 
